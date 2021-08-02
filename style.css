@@ -17,6 +17,7 @@ a {
 body {
     width: 100vw;
     overflow-x: hidden;
+    background-repeat: no-repeat;
 }
 
 a, a:hover, button, button:hover {
@@ -47,12 +48,6 @@ a, a:hover, button, button:hover {
 
 
 
-.yellow-text {
-    padding-top: 15%;
-    padding-left: 10%;
-    height: 20%;
-}
-
 .grey-text {
     padding-left: 30%;
     padding-top: 20%;
@@ -67,13 +62,9 @@ a, a:hover, button, button:hover {
 
 .forge-yellow {
     height: 300px;
-    margin-right: 0%;
     background-color: #FCB31F;
+    border-right: 472px solid black;
+
 
 }
 
-.forge-black {
-    height: 300px;
-    margin-left: 50%;
-    background-color: #000000
-}
