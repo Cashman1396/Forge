@@ -41,8 +41,8 @@ a, a:hover, button, button:hover {
 }
 
 .white-text {
-    padding-top: 10%;
-    padding-left: 10%;
+    padding-top: 7%;
+    padding-left: 15%;
     height: 20%;
 }
 
@@ -50,20 +50,20 @@ a, a:hover, button, button:hover {
 
 .grey-text {
     padding-left: 30%;
-    padding-top: 20%;
+    padding-top: 15%;
 }
 
 .yellow-text {
     position: absolute;
-    padding-left: 10%;
-    padding-top: 10%;
+    padding-left: 15%;
+    padding-top: 7%;
     padding-right:50%;
 }
 
 .black-text {
     position: relative;
     padding-left: 30%;
-    padding-top: 20%;
+    padding-top: 15%;
     padding-right:50%;
 
 }
@@ -89,8 +89,9 @@ a, a:hover, button, button:hover {
 
 
 
+/* front page */
 
 
-
-
-/* #FCB31F */
+hr.font-divide {
+   border: 2px solid #FCB31F;
+}
