@@ -53,6 +53,21 @@ a, a:hover, button, button:hover {
     padding-top: 20%;
 }
 
+.yellow-text {
+    position: absolute;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right:50%;
+}
+
+.black-text {
+    position: relative;
+    padding-left: 30%;
+    padding-top: 20%;
+    padding-right:50%;
+
+}
+
 .forge-grey {
     margin-left: 50%;
     height: 300px;
@@ -61,10 +76,21 @@ a, a:hover, button, button:hover {
 }
 
 .forge-yellow {
+    position: relative;
     height: 300px;
     background-color: #FCB31F;
-    border-right: 472px solid black;
-
-
 }
 
+.forge-black {
+   height: 300px;
+    background-color: black;
+    margin-left: 50%;
+}
+
+
+
+
+
+
+
+/* #FCB31F */
